@@ -1,0 +1,4 @@
+main: payitost.auth.Main
+author: MythNetwork
+version: 1.0.0
+name: MythAuth
